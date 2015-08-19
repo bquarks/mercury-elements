@@ -19,7 +19,7 @@
     },
     "dependencies": {
         "mercury-drop": "bquarks/mercury-drop#^0.9.0",
-        "mercury-paginator": "bquarks/mercury-paginator#^0.0.1"
+        "mercury-paginator": "bquarks/mercury-paginator#^1.0.0"
     },
     "homepage": "https://github.com/bquarks",
     "authors": [
